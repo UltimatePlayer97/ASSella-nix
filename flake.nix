@@ -5,7 +5,7 @@
     nixpkgs.url = "github:NixOS/nixpkgs/nixos-unstable";
 
     assella-src = {
-      url = "github:niwia/ASSella?ref=v2.5.8";
+      url = "github:niwia/ASSella?ref=v3.1.1";
       flake = false;
     };
 
